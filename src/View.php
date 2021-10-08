@@ -1,7 +1,8 @@
-<?php 
-	namespace Maria_brash\cold_hot\View;
-	
-    function showGame() {
-        echo "Game shown".PHP_EOL;
-    }
-?>
+<?php
+
+namespace Maria_brash\cold_hot\View;
+
+function showGame()
+{
+    echo "Start game" . PHP_EOL;
+}
